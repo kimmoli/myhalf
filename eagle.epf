@@ -1,0 +1,25 @@
+[Eagle]
+Version="06 04 00"
+Platform="Windows"
+Serial="7113D0F1BC-LSR-WLM-1SS"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.4.0/lbr/supply1.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.4.0/lbr/omat/OMAT_IC.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.4.0/lbr/omat/dafug.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.4.0/lbr/omat/rcl.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.4.0/lbr/omat/ti_tmp.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.4.0/lbr/Microchip/Microchip_By_element14_Batch_1.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="797 156 1396 707"
+State=2
+Number=0
+
+[Desktop]
+Screen="1920 1080"
+Window="Win_1"
