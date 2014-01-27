@@ -6,6 +6,7 @@ Otherhalf breakout board for Jolla
 Bill of materials
 
 R1, R2  0603 2k15 (or 2k2) I2C 3.3V pullups. I usually use 2k15 from E96 series.
+
 R3      0603 330 ohms or something like that for led series resistor
 
 C1, C2  0603 1µF 16V X7R
